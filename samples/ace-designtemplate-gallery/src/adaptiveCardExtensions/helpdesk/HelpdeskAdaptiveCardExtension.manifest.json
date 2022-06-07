@@ -25,7 +25,7 @@
     "description": {
       "default": "Design template for how to show help desk tickets in list view and detail view."
     },
-    "officeFabricIconFontName": "Telemarketer",
+    "iconImageUrl": "https://raw.githubusercontent.com/pnp/spfx-reference-scenarios/main/samples/ace-designtemplate-gallery/images/acepnplogo.png",
     "properties": {
       "title": "Help Desk",
       "iconProperty": "person_support" // Default to sharepointlogo

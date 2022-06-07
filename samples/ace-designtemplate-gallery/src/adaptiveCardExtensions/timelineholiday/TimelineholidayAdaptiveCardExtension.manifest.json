@@ -25,8 +25,8 @@
     "description": {
       "default": "Design template for a vertical timeline of events with image and description."
     },
-    "officeFabricIconFontName": "Vacation",
-    "cardSize": "Large",
+    "iconImageUrl": "https://raw.githubusercontent.com/pnp/spfx-reference-scenarios/main/samples/ace-designtemplate-gallery/images/acepnplogo.png",
+    "cardSize": "Medium",
     "properties": {
       "title": "Holidays",
       "iconProperty": "beach" // Default to sharepointlogo

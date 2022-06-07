@@ -25,7 +25,7 @@
     "description": {
       "default": "Design template for showing news or articles with imagery and deep links to Teams."
     },
-    "officeFabricIconFontName": "ribbon",
+    "iconImageUrl": "https://raw.githubusercontent.com/pnp/spfx-reference-scenarios/main/samples/ace-designtemplate-gallery/images/acepnplogo.png",
     "properties": {
       "title": "Benefits",
       "description": "Choose from the latest benefit options",

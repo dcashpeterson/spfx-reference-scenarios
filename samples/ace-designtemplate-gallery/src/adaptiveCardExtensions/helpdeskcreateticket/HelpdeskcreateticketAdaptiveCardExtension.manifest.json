@@ -25,7 +25,7 @@
     "description": {
       "default": "Design template for how to create a help desk ticket entry system. Submission form with a deep linking to Teams."
     },
-    "officeFabricIconFontName": "Telemarketer",
+    "iconImageUrl": "https://raw.githubusercontent.com/pnp/spfx-reference-scenarios/main/samples/ace-designtemplate-gallery/images/acepnplogo.png",
     "cardSize": "Medium",
     "properties": {
       "title": "Help Desk",
