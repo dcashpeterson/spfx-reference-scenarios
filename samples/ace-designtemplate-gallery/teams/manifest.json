@@ -1,14 +1,14 @@
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.9/MicrosoftTeams.schema.json",
   "manifestVersion": "1.9",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "id": "4a007f51-abb1-4d3a-b753-7c84404936b2",
   "packageName": "ACEDesignTemplates",
   "developer": {
     "name": "Sympraxis Consulting",
     "websiteUrl": "https://sympraxisconsulting.com",
     "privacyUrl": "https://symp.info/acegalleryprivacy",
-    "termsOfUseUrl": "https://symp.info/acegalleryterms",
+    "termsOfUseUrl": "https://symp.info/acegalleryprivacy",
     "mpnId": "2459569"
   },
   "icons": {
@@ -17,7 +17,7 @@
   },
   "name": {
     "short": "ACE Design Gallery",
-    "full": "Adaptive Card Extension (ACE) Design Template Gallery and Personal Application."
+    "full": "Adaptive Card Extension (ACE) Design Template Gallery and Personal Application"
   },
   "description": {
     "short": "An example gallery of 14 Adaptive Card Extensions (ACEs) using Viva Connections.",
